@@ -35,7 +35,7 @@ a{
 #list{
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: #ECCEAE;
 }
 h2{
     text-align: center;
@@ -68,9 +68,22 @@ p{
     text-align: center;
 }
 .tab{
-    color: rgb(137, 145, 152);
+    color: rgb(51, 96, 135);
     font-family: 600;
     font-size: 18px;
+}
+.offer{
+  color: rgb(51, 96, 135);
+
+}
+#main{
+  color: rgb(51, 96, 135);
+}
+.marker-box{
+  color:  rgb(51, 96, 135);
+}
+.p-lg{
+  color: rgb(51, 96, 135);
 }
 
 count up numbers
@@ -99,6 +112,7 @@ count up numbers
     line-height: 1em;
     font-weight: 600;
     font-family: 'Poppins', sans-serif;
+    color: #6fbf52;
   }
 .counter-item-text {
     margin-top: 10px;
@@ -106,4 +120,5 @@ count up numbers
     line-height: 1em;
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
+    color: #6fbf52;
   }
